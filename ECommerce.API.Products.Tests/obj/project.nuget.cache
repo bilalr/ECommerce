@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YF9bUeVT06b0C13ZphsoL1vufAOoOWGVB5A38modRpYffUNdjQ63/+FQpHrcz6SiQyHJ4wG+YTdBP0V8bqNWIQ==",
+  "dgSpecHash": "nBz6MexFLwL0W1V+/H8cAuKXsRnXUAVe4zzoMIqXroiaZd1GBgs84vtU0W8Rk1SmY6U0Q4Uz4UPWxdAIrFqYbQ==",
   "success": true,
   "projectFilePath": "C:\\Bilal\\Hobby Projects\\ECommerce\\ECommerce.API.Products.Tests\\ECommerce.API.Products.Tests.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.0\\microsoft.entityframeworkcore.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.2.0\\microsoft.entityframeworkcore.analyzers.2.2.0.nupkg.sha512",
+    "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\2.2.0\\microsoft.entityframeworkcore.inmemory.2.2.0.nupkg.sha512",
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.2.0\\microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
     "C:\\Users\\s6154c\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
