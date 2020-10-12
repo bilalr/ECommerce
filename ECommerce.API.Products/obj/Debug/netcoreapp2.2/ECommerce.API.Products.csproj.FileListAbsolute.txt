@@ -29,3 +29,4 @@ C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Products\obj\Debug\netcoreapp2.2
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Products\obj\Debug\netcoreapp2.2\ECommerce.API.Products.dll
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Products\obj\Debug\netcoreapp2.2\ECommerce.API.Products.pdb
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Products\obj\Debug\netcoreapp2.2\ECommerce.API.Products.genruntimeconfig.cache
+C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Products\obj\Debug\netcoreapp2.2\ECommerce.API.Products.csprojAssemblyReference.cache
