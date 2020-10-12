@@ -11,9 +11,11 @@ using Xunit;
 
 namespace ECommerce.API.Products.Tests
 {
+
+    //Products tests
     public class ProductServiceTest
     {
-
+        
         [Fact]
         public async Task GetProductsReturnsAllProductsTest()
         {
