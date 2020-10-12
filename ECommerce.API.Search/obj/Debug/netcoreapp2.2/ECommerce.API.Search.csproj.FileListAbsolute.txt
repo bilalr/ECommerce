@@ -20,7 +20,6 @@ C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\bin\Debug\netcoreapp2.2\E
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\bin\Debug\netcoreapp2.2\ECommerce.API.Search.runtimeconfig.dev.json
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\bin\Debug\netcoreapp2.2\ECommerce.API.Search.dll
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\bin\Debug\netcoreapp2.2\ECommerce.API.Search.pdb
-C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.csprojAssemblyReference.cache
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.AssemblyInfoInputs.cache
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.AssemblyInfo.cs
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.csproj.CoreCompileInputs.cache
@@ -30,3 +29,4 @@ C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\E
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.dll
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.pdb
 C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.genruntimeconfig.cache
+C:\Bilal\Hobby Projects\ECommerce\ECommerce.API.Search\obj\Debug\netcoreapp2.2\ECommerce.API.Search.csprojAssemblyReference.cache
