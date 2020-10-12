@@ -1,0 +1,13 @@
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp2.1\ECommerce.API.Customers.deps.json
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp2.1\ECommerce.API.Customers.runtimeconfig.json
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp2.1\ECommerce.API.Customers.runtimeconfig.dev.json
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp2.1\ECommerce.API.Customers.dll
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp2.1\ECommerce.API.Customers.pdb
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.csproj.CoreCompileInputs.cache
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.RazorAssemblyInfo.cache
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.RazorAssemblyInfo.cs
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.AssemblyInfoInputs.cache
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.AssemblyInfo.cs
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.RazorTargetAssemblyInfo.cache
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.dll
+C:\Bilal\HobbyProject\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp2.1\ECommerce.API.Customers.pdb
